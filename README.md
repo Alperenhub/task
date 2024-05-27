@@ -1,6 +1,6 @@
 Project Name: Dashboard Application
 
-Project link: https://furkanalperenkilinc.com/dashboard
+Project link: https://furkanalperenkilinc.com/dashboard if you get 404 error. Please go to https://furkanalperenkilinc.com/ link and click the Computer Engineer & Web/Mobile developer part for navigation.
 
 Project Description:
 This project is a dashboard application that allows users to visualize and track data related to various metrics. The data is fetched from an API and displayed in the user interface using various charts and list elements.
